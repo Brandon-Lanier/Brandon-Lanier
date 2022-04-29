@@ -1,4 +1,6 @@
-### Welcome to my Github.  Feel free to peak around at my recent projects!
+### Welcome to my Github.  
+
+### Feel free to peak around at my recent projects!
 
 <!--
 **Brandon-Lanier/Brandon-Lanier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
